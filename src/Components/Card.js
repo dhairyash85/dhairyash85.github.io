@@ -11,7 +11,7 @@ const Card = (props) => {
   return (
     <>
       <div
-        className="py-5 object-cover flex  justify-center overflow-hidden"
+        className=" object-cover flex  justify-center overflow-hidden"
         onClick={handleClick}
       >
         <div className="group relative m-0 flex h-72 w-96 rounded-xl shadow-xl ring-gray-900/5 sm:mx-auto sm:max-w-lg">
