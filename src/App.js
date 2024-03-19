@@ -1,7 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 import Header from "./Components/Header";
-
+// import bg from './as'
 import Body from "./Components/Body";
 import axios from "axios";
 import { createContext, useEffect, useState } from "react";
@@ -15,7 +15,7 @@ function App() {
   }, []);
 
   return (
-      <div
+      <div style={{ backgroundImage: `url(${require("./asfalt-light.png")})`, backgroundColor: "#3b3b3b" }}
       >
         <Header />
         <Body projects={projects}/>
