@@ -1,0 +1,36 @@
+{
+  "Projects": [
+    {
+      "Name": "GenNFT",
+      "Github": "https://github.com/CMPN-CODECELL/Syrus-2024-Web3-LinearSorters",
+      "Description": "An NFT Marketplace built on top of the Polygon Mumbai Testnet where creators can help themselves and others by setting a donation and royalty percentage at the time of minting. Each time an NFT is sold for a profit, the designated royalty percentage and donation percentage is cut from the profit and transferred to the creator and an NGO",
+      "Link": "",
+      "Languages": ["React", "Tailwind", "Solidity", "Hardhat", "EthersJS"],
+      "Image": "https://u.pcloud.link/publink/show?code=XZq03J0ZSTQyBJk4XAJK32xhmdDVqbiPVAwX"
+    },
+    {
+      "Name": "Spotify Clone",
+      "Github": " https://github.com/dhairyash85/Spotify",
+      "Description": "A Spotify clone where users can listen to their choice of music for free, without any ads and even get recommendations",
+      "Link": "",
+      "Languages": ["React", "Tailwind", "Python", "Flask"],
+      "Image": ""
+    },
+    {
+      "Name": "Internship",
+      "Github": "https://github.com/dhairyash85/Internship",
+      "Description": "An internship site tailor made for students, where they can give daily quiz and rankup on the leaderboard to standout in front of the recruiters",
+      "Link": "",
+      "Languages": ["React", "Bootstrap", "MongoDB", "NodeJS", "ExpressJS"],
+      "Image": "https://u.pcloud.link/publink/show?code=XZPrIF0Zxw6xdOiX1oS1aXEVLlnVNRFcLP3y"
+    },
+    {
+      "Name": "Voting DApp",
+      "Github": "https://github.com/dhairyash85/Voting-DApp",
+      "Description": "A simple voting site built on top of the Polygon Mumbai Testnet, where users can vote for their choice of the applicant on the blockchain",
+      "Link": "",
+      "Languages": ["React", "Solidity", "Hardhat", "EthersJS"],
+      "Image": ""
+    }
+  ]
+}
